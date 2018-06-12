@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>PokeInfo</title>
+</head>
+<body>
+    <h1>PokeInfo</h1>
+    <h2>Select a Pokemon!</h2>
+    <ul>
+    @{
+        for (int i = 1; i < 152; i++)
+        {
+                <li style="list-style: none;"><a style="text-decoration: none;" href="/pokemon/@i">Pokemon #@i</a></li>
+        }
+    }
+    </ul>
+</body>
+</html>

@@ -1,0 +1,11 @@
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\PokeInfo\bin\Debug\netcoreapp2.0\PokeInfo.deps.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\PokeInfo\bin\Debug\netcoreapp2.0\PokeInfo.runtimeconfig.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\PokeInfo\bin\Debug\netcoreapp2.0\PokeInfo.runtimeconfig.dev.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\PokeInfo\bin\Debug\netcoreapp2.0\PokeInfo.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\PokeInfo\bin\Debug\netcoreapp2.0\PokeInfo.pdb
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\PokeInfo\obj\Debug\netcoreapp2.0\PokeInfo.csprojResolveAssemblyReference.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\PokeInfo\obj\Debug\netcoreapp2.0\PokeInfo.csproj.CoreCompileInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\PokeInfo\obj\Debug\netcoreapp2.0\PokeInfo.AssemblyInfoInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\PokeInfo\obj\Debug\netcoreapp2.0\PokeInfo.AssemblyInfo.cs
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\PokeInfo\obj\Debug\netcoreapp2.0\PokeInfo.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\PokeInfo\obj\Debug\netcoreapp2.0\PokeInfo.pdb
